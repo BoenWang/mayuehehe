@@ -1,0 +1,170 @@
+.content{
+    margin: 0px auto;
+    width: 80%;
+    height: auto;
+}
+.topbar{
+    background-color: #382E2E;
+    height: 60px;
+}
+.topimage{
+    height: 150px;
+    border: 1px solid yellow;
+    background-color: white;
+    text-align: center;
+}
+.greeting{
+    background-color: white;
+    float: right;
+    border: 1px solid black;
+    width: 630px;
+}
+#h3{
+    background: cyan;
+    position: relative;
+    top: 20px;
+}
+.kings{
+    height: 300px;
+    width: 350px;
+    border: 1px solid yellow;
+    margin: 10px;
+}
+.middleimage{
+    margin: 1%;
+    height: 80px;
+    width: 98%;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+.lists{
+    width: 48%;
+    float: left;
+    border: 1px solid black;
+    margin: 10px;
+    margin-right: 1px;
+    height: 400px;
+}
+.title{
+    color: white;
+    text-align: center;
+    background-color: tan;
+}
+.mainmenu{
+    color: white;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+}
+table.mainmenu td {
+    padding:0px 15px;
+}
+.name{
+    float: left;
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    padding: 14px;
+    position: relative;
+    bottom: 24px;
+}
+/* table > tr > td :hover{
+    background-color: blue;
+} */
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+color:white;
+     }
+a:hover{
+    color: red;
+    border-bottom: 2px solid red;
+   
+}
+div > img{
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+}
+.sliderShow{
+    width: 44%;
+    height: 350px;
+    margin: 5px 3%;
+    position:relative;
+    top:-35px;
+    left:-45px;
+}
+.school{
+    height:535px;
+    line-height: 535px;
+}
+.schoolIntro{
+    float: right;
+    width: 44%;
+    margin:2% 2% 0px 0px;
+    line-height: 25px;
+    background-color: #F7F7F7;
+    padding: 30px;
+    border-radius: 20%; 
+    box-shadow: 10px 10px 5px #888888;
+}
+.courses{
+    clear:both;
+}
+.selfStudies{
+    height: 374px;
+}
+.learningExp{
+    float: left;
+    border: 1px solid black;
+    width: 39%;
+    border: none;
+   
+    background-color: #F7F7F7;
+    line-height:28px;
+    height: 100%;
+    padding:15px;
+    border-radius: 20%;
+    margin: 2% 3% 2% 0px;
+    
+}
+.txtbook{
+    width:45%;
+    margin-top:3%;
+    display:inline-block;
+}
+.txtbook img{
+    border-radius: 50%;
+}
+.S-A-P-scores{
+    text-align: center;
+}
+.AP-scores{
+    text-align: center;
+}
+.SAT-scores{
+    text-align: center;
+}
+.mbimg{
+    float: left;
+    width: 40%;
+    height: 258px;
+    position: relative;
+    bottom: 120px;
+    margin: 0px 5%;
+}
+.badimg{
+    float: right;
+    width: 40%;
+    height: 258px;
+    border: 1px solid blue;
+    position: relative;
+    bottom: 212px;
+    margin: 0px 5%;
+}
